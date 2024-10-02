@@ -1,6 +1,7 @@
 # Snow Animation
 
 This is a simple snow animation using the pygame library. The snowflakes are generated randomly and fall down the screen.
+![Snow Animation](https://i.imgur.com/w3FPCdV.png)
 
 ## Requirements
 
