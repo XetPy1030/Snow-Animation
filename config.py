@@ -9,3 +9,5 @@ COLOR_SNOWFLAKE = lambda: randint(200, 255)
 
 MIN_SPEED = 7
 MAX_SPEED = 11
+
+WIND_SPEED = [1.5, 1]
